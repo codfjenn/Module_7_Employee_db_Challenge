@@ -20,6 +20,7 @@ Below are two additional analysis that were completed to review the data further
 ![Role Review](https://github.com/codfjenn/Module_7_Employee_db_Challenge/blob/main/Mentorship_Role.png)
 
 - With the concerns around the volume of additional resources to mentor, the population was expanded to 1964-01-01 through 1965-12-31. This additional analysis allowed us to identify a total mentorship population of 19,905. This population would allow us to be more selective when identifying the appropriate resources. 
+
 ![Expanded Mentorship](https://github.com/codfjenn/Module_7_Employee_db_Challenge/blob/main/Mentorship_expanded.png)
 
 For Reference, I have attached the initial data files for employees, titles, and department employees in case there is any discrepancy in my numerical results. 
