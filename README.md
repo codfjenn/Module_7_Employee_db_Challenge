@@ -17,8 +17,9 @@ Based on a review of the employee data, the organization will have to backfill 7
 
 Below are two additional analysis that were completed to review the data further: 
 - An additional query was added to the mentorship data by role. This detail identifies that we have several staff and resource engineers that should be reviewed to determine if they are eligible for senior staff roles. Below is a table summary
-
+![Role Review](https://github.com/codfjenn/Module_7_Employee_db_Challenge/blob/main/Mentorship_Role.png)
 
 - With the concerns around the voume of additional resources to mentor, the population was expanded to 1964-01-01 through 1965-12-31. This additional analysis allowed us to identify a total mentorship population of 19,905. This population would allow us to be more selective when identifying the appropriate resources. 
+![Ecpanded Mentorship](
 
 For Reference, I have attached the initial data files for employees, titles, and department employees in case there is any descrepancy in my numerical results. 
